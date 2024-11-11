@@ -8,7 +8,7 @@ public class q48 {
             }
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    matrix[j][n - 1 - i] = tmp[i][j];
+                    matrix[j][n - 1 - i] = tmp[i][j];//关键公式
                 }
             }
 
