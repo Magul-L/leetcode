@@ -1,4 +1,4 @@
-public class q289 {
+public class q289生命游戏 {
     class Solution {
         public void gameOfLife(int[][] board) {
             int n = board[0].length;

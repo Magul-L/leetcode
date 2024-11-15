@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class q54 {
+public class q54螺旋矩阵 {
     class Solution {
         public List<Integer> spiralOrder(int[][] matrix) {
             if (matrix.length == 0)

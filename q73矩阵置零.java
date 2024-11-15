@@ -1,4 +1,4 @@
-public class q73 {
+public class q73矩阵置零 {
     class Solution {
         public void setZeroes(int[][] matrix) {
             int row = matrix.length;
